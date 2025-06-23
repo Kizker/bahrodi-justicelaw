@@ -98,7 +98,7 @@
                                     <p class="box-text">"I was struggling with family law for months before I found abc. They not only provided me with the solution I needed, but they also educated me on how to prevent the issue from happening again. Their team is incredibly knowledgeable and patient, and they always go the extra mile to ensure customer satisfaction. I am so grateful for their help and would recommend them to anyone."</p>
                                     <div class="testi-block-top">
                                         <div class="box-img">
-                                            <img src="assets/img/testimonial/testi_1_4.jpg" alt="Avater">
+                                            <img src="assets/img/testimonial/testi-org.png" alt="Avater">
                                         </div>
                                         <div class="content">
                                             <h3 class="box-title">Monks Millar</h3>
@@ -118,7 +118,7 @@
                                     <p class="box-text">"I was struggling with family law for months before I found abc. They not only provided me with the solution I needed, but they also educated me on how to prevent the issue from happening again. Their team is incredibly knowledgeable and patient, and they always go the extra mile to ensure customer satisfaction. I am so grateful for their help and would recommend them to anyone."</p>
                                     <div class="testi-block-top">
                                         <div class="box-img">
-                                            <img src="assets/img/testimonial/testi_1_2.jpg" alt="Avater">
+                                            <img src="assets/img/testimonial/testi-org.png" alt="Avater">
                                         </div>
                                         <div class="content">
                                             <h3 class="box-title">William Hazelip</h3>

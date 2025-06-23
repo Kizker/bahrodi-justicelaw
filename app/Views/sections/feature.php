@@ -52,7 +52,7 @@
                                 <i class="fa-sharp fa-solid fa-play"></i>
                             </a>
                         </div>
-                        <img src="assets/img/why/why-3.jpg" alt="choose-frame">
+                        <img src="assets/img/why/profile-1.png" alt="choose-frame">
                     </div>
                 </div>
                 <div class="col-md-6 col-xl-3 order-3 order-xl-0">

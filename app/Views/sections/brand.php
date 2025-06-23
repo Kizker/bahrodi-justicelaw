@@ -9,42 +9,42 @@
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
                                         <div class="brand-box">
-                                            <a href="about.html">
+                                            <a href="">
                                                 <img src="assets/img/brand/pengadilan_negeri_baturaja.svg" alt="Brand Logo">
                                             </a>
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="brand-box">
-                                            <a href="about.html">
+                                            <a href="">
                                                 <img src="assets/img/brand/satya_adhi_wicaksana.svg" alt="Brand Logo">
                                             </a>
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="brand-box">
-                                            <a href="about.html">
+                                            <a href="">
                                                 <img src="assets/img/brand/logo_law3.svg" alt="Brand Logo">
                                             </a>
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="brand-box">
-                                            <a href="about.html">
+                                            <a href="">
                                                 <img src="assets/img/brand/pkhi.svg" alt="Brand Logo">
                                             </a>
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="brand-box">
-                                            <a href="about.html">
+                                            <a href="">
                                                 <img src="assets/img/brand/ikadin.svg" alt="Brand Logo">
                                             </a>
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="brand-box">
-                                            <a href="about.html">
+                                            <a href="">
                                                 <img src="assets/img/brand/pengadilan_agama_martapura.svg" alt="Brand Logo">
                                             </a>
                                         </div>

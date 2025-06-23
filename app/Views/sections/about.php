@@ -51,7 +51,7 @@
                         </div>
                     </div>
                     <div>
-                        <a href="about.html" class="th-btn style3">Lihat Detail <i class="fa-regular fa-arrow-right-long"></i></a>
+                        <a href="/coming" class="th-btn style3">Lihat Detail <i class="fa-regular fa-arrow-right-long"></i></a>
                     </div>
                 </div>
             </div>

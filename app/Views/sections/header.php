@@ -24,7 +24,7 @@
                     </div>
                     <div class="col-auto d-none d-xl-block">
                         <div class="header-button">
-                            <a href="#" class="th-btn">Konsultasi Gratis <i class="far fa-arrow-right-long"></i></a>
+                            <a href="https://wa.me/08123456789/" class="th-btn">Konsultasi Gratis <i class="far fa-arrow-right-long"></i></a>
                         </div>
                     </div>
                 </div>

@@ -8,15 +8,15 @@
             <div class="th-mobile-menu">
                 <ul>
                     <li>
-                        <a href="index.html">Home</a>
+                        <a href="/">Home</a>
                     <li>
-                        <a href="#">About Us</a>
+                        <a href="#about-sec">About Us</a>
                     </li>
                     <li>
-                        <a href="#">Service</a>
+                        <a href="#service-sec">Service</a>
                     </li>
                     <li>
-                        <a href="contact.html">Contact</a>
+                        <a href="#contact-sec">Contact</a>
                     </li>
                 </ul>
             </div>
