@@ -11,12 +11,12 @@
             <div class="row  gy-4 align-items-center">
                 <div class="col-xl-7 col-lg-7">
                     <div class="hero-style3">
-                        <span class="sub-title text-center text-lg-start">Penasihat Hukum Terpercaya</span>
+                        <span class="sub-title text-center text-lg-start">Dharma Agung Sembilan</span>
                         <h1 class="hero-title">Solusi Hukum Andal, Mitra <span class="line">Success</span> Anda</h1>
                         <p class="hero-text">Solusi berbagai persoalan hukum, termasuk penyusunan kontrak, litigasi, kepatuhan, dan urusan regulasi.</p>
                         <div class="btn-group justify-content-center">
                             <a href="#contact-sec" class="th-btn">Contact us <i class="fa-regular fa-arrow-right-long"></i></a>
-                            <a href="#about-sec" class="th-btn style3">About us <i class="fa-regular fa-arrow-right-long"></i></a>
+                            <a href="detail-about-us" class="th-btn style3">About us <i class="fa-regular fa-arrow-right-long"></i></a>
                         </div>
                     </div>
                 </div>

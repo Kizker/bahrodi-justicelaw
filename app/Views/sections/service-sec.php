@@ -13,7 +13,7 @@
                                 Litigasi
                             </h4>
                             <p class="sec-text">Layanan penyelesaian perkara melalui jalur pengadilan maupun non-pengadilan, mencakup sengketa perdata, pidana, mediasi, negosiasi, dan arbitrase.</p>
-                            <a href="/coming" class="th-btn style3">Cari Tahu Lebih </a>
+                            <a href="layanan-hukum-litigasi" class="th-btn style3">Cari Tahu Lebih </a>
                         </div>
                         <h4 class="box-title">
                             Litigasi
@@ -30,7 +30,7 @@
                     <span class="sub-title">Our Services</span>
                     <h2 class="sec-title text-white">Layanan Hukum Pro Bono <br> untuk Keadilan Sosial</h2>
                     <p class="sec-text text-white">Mitra terpercaya dalam setiap kebutuhan hukum Anda. Dengan tim berpengalaman dan layanan lintas bidang, kami hadir secara profesional, solutif, dan berfokus pada kepentingan klien.</p>
-                    <a href="/coming" class="link-btn style-2">Lihat Selengkapnya <i class="fa-regular fa-arrow-right-long"></i> </a>
+                    <a href="layanan-hukum-probono" class="link-btn style-2">Lihat Selengkapnya <i class="fa-regular fa-arrow-right-long"></i> </a>
                 </div>
             </div>
             <div class="col-xl-6">
@@ -45,7 +45,7 @@
                                 Keluarga
                             </h4>
                             <p class="sec-text">Pendampingan hukum terkait perceraian, hak asuh anak, nafkah, pembagian harta, adopsi, hingga warisan dan konflik keluarga.</p>
-                            <a href="/coming" class="th-btn style3">Cari Tahu Lebih </a>
+                            <a href="layanan-hukum-keluarga" class="th-btn style3">Cari Tahu Lebih </a>
                         </div>
                         <h4 class="box-title">
                             Keluarga
@@ -62,7 +62,7 @@
                 <div class="service-3-item">
                     <div class="service-3-item__content">
                         <div class="service-3-item__top-icon">
-                            <img src="assets/img/icon/service-3-3.svg" alt="img">
+                            <img src="assets/img/icon/service-3-4.svg" alt="img">
                         </div>
                         <h2 class="box-count">03</h2>
                         <div class="service-3-item__hover">
@@ -70,7 +70,7 @@
                                 Korporasi
                             </h4>
                             <p class="sec-text">Layanan hukum untuk kebutuhan bisnis dan usaha, termasuk pendirian badan hukum, kontrak, merger, akuisisi, hingga masalah ketenagakerjaan.</p>
-                            <a href="/coming" class="th-btn style3">Cari Tahu Lebih </a>
+                            <a href="layanan-hukum-korporasi" class="th-btn style3">Cari Tahu Lebih </a>
                         </div>
                         <h4 class="box-title">
                             Korporasi
@@ -86,7 +86,7 @@
                 <div class="service-3-item">
                     <div class="service-3-item__content">
                         <div class="service-3-item__top-icon">
-                            <img src="assets/img/icon/service-3-4.svg" alt="img">
+                            <img src="assets/img/icon/service-3-1.svg" alt="img">
                         </div>
                         <h2 class="box-count">04</h2>
                         <div class="service-3-item__hover">
@@ -94,7 +94,7 @@
                                 Properti
                             </h4>
                             <p class="sec-text">Pendampingan hukum dalam transaksi jual beli, sewa, pengurusan sertifikat, sengketa tanah, serta legalitas properti dan perizinan usaha.</p>
-                            <a href="/coming" class="th-btn style3">Cari Tahu Lebih </a>
+                            <a href="layanan-hukum-properti" class="th-btn style3">Cari Tahu Lebih</a>
                         </div>
                         <h4 class="box-title">
                             Properti
@@ -118,7 +118,7 @@
                                 Regulasi
                             </h4>
                             <p class="sec-text">Konsultasi hukum terkait kepatuhan terhadap peraturan pemerintah, perpajakan, audit hukum, serta penyelesaian sengketa administrasi atau pajak.</p>
-                            <a href="/coming" class="th-btn style3">Cari Tahu Lebih </a>
+                            <a href="layanan-hukum-regulasi" class="th-btn style3">Cari Tahu Lebih </a>
                         </div>
                         <h4 class="box-title">
                             Regulasi

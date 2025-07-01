@@ -13,10 +13,10 @@
                         <nav class="main-menu d-none d-lg-inline-block">
                             <ul>
                                 <li><a href="/">Home</a></li>
-                                <li><a href="#about-sec">About Us</a></li>
-                                <li><a href="#service-sec">Service</a></li>
+                                <li><a href="/#about-sec">About Us</a></li>
+                                <li><a href="/#service-sec">Service</a></li>
                                 <li>
-                                    <a href="#contact-sec">Contact Us</a>
+                                    <a href="/#contact-sec">Contact Us</a>
                                 </li>
                             </ul>
                         </nav>
