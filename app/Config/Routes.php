@@ -17,7 +17,7 @@ $routes->get('layanan-hukum-litigasi', 'Home::litigasi');
 $routes->get('layanan-hukum-keluarga', 'Home::keluarga');
 $routes->get('layanan-hukum-korporasi', 'Home::korporasi');
 $routes->get('layanan-hukum-properti', 'Home::properti');
-$routes->get('layanan-hukum-regulasi', 'Home::regulasi');
+$routes->get('layanan-hukum-pajak', 'Home::pajak');
 
 // mail
 $routes->get('contact', 'Contact::index');

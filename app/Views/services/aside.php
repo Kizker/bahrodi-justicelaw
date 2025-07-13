@@ -23,7 +23,7 @@
                 <span><i class="fa-sharp fa-light fa-arrow-right"></i></span>
             </li>
             <li>
-                <a href="layanan-hukum-regulasi">Layanan Hukum Regulasi</a>
+                <a href="layanan-hukum-pajak">Layanan Kurator & Pajak</a>
                 <span><i class="fa-sharp fa-light fa-arrow-right"></i></span>
             </li>
         </ul>

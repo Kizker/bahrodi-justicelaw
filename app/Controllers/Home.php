@@ -44,8 +44,8 @@ class Home extends BaseController
     {
         return view('layanan-hukum-properti');
     }
-    public function regulasi(): string
+    public function pajak(): string
     {
-        return view('layanan-hukum-regulasi');
+        return view('layanan-hukum-pajak');
     }
 }

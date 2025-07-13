@@ -18,7 +18,7 @@
     <div class="breadcumb-wrapper " data-bg-src="assets/img/bg/breadcrumb-bg.jpg" data-overlay="title" data-opacity="8">
         <div class="container">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Layanan Hukum Regulasi</h1>
+                <h1 class="breadcumb-title">Layanan Kurator & Konsultasi Pajak</h1>
                 <ul class="breadcumb-menu">
                     <li><a href="/">Home</a></li>
                     <li>Service Details</li>
@@ -38,26 +38,26 @@
                             <img src="assets/img/service/service_details.jpg" alt="Service Image">
                         </div>
                         <div class="page-content">
-                            <h2 class="sec-title page-title">Layanan Hukum Regulasi</h2>
-                            <p class="">Kepatuhan terhadap regulasi adalah fondasi utama dalam menjalankan kegiatan usaha dan organisasi secara legal dan berkelanjutan. Dalam dunia yang terus berubah dan penuh kompleksitas hukum, kami hadir untuk memastikan bahwa klien kami selalu berjalan selaras dengan ketentuan peraturan perundang-undangan yang berlaku.</p>
-                            <p class="">Layanan hukum regulasi kami meliputi pemetaan kewajiban hukum, audit kepatuhan, serta pendampingan dalam proses perizinan, pelaporan, dan pengawasan oleh otoritas pemerintah. Kami juga membantu klien menghadapi isu hukum yang timbul akibat pelanggaran regulasi atau kebijakan yang berubah secara cepat.</p>
+                            <h2 class="sec-title page-title">Layanan Kurator & Konsultasi Pajak</h2>
+                            <p class="">Dalam dunia usaha, masalah finansial seperti kepailitan serta kewajiban perpajakan yang kompleks membutuhkan penanganan profesional dan terintegrasi. Kami hadir sebagai Kurator berlisensi dan Konsultan Pajak resmi, memberikan solusi hukum yang menyeluruh untuk melindungi kepentingan hukum dan keuangan klien secara berkelanjutan.</p>
+                            <p class="">Layanan kami memastikan proses pemberesan aset debitur pailit berjalan tertib dan sah menurut hukum, serta membantu klien mengelola kewajiban perpajakan dengan efisien dan sesuai peraturan perundang-undangan yang berlaku.</p>
 
-                            <h2 class="sec-title page-title">Kepastian dalam Langkah Kepatuhan</h2>
-                            <p class="mb-30">Kami memberikan solusi hukum yang proaktif dan tepat sasaran, membantu klien untuk tidak hanya patuh pada hukum, tetapi juga tangguh dalam menghadapi dinamika regulasi yang kompleks dan multidimensi.</p>
+                            <h2 class="sec-title page-title">Kepatuhan Pajak dalam Satu Layanan</h2>
+                            <p class="mb-30">Kami memberikan pendekatan yang proaktif dan tepat sasaran dalam menangani kondisi usaha yang sedang menghadapi tekanan finansial maupun tantangan kepatuhan pajak.</p>
 
                             <div class="checklist list-three-column mb-20">
                                 <ul>
-                                    <li><i class="fa-regular fa-check"></i> Audit Kepatuhan Regulasi</li>
-                                    <li><i class="fa-regular fa-check"></i> Pengurusan Perizinan</li>
-                                    <li><i class="fa-regular fa-check"></i> Manajemen Risiko & Sanksi</li>
-                                    <li><i class="fa-regular fa-check"></i> Pemeriksaan oleh Regulator</li>
-                                    <li><i class="fa-regular fa-check"></i> Tinjauan Regulasi Baru</li>
-                                    <li><i class="fa-regular fa-check"></i> Advokasi Kebijakan Publik</li>
+                                    <li><i class="fa-regular fa-check"></i> Tugas & Penunjukan Kurator oleh Pengadilan</li>
+                                    <li><i class="fa-regular fa-check"></i> Pendampingan Proses PKPU</li>
+                                    <li><i class="fa-regular fa-check"></i> Pengurusan Boedel Pailit & Daftar Piutang</li>
+                                    <li><i class="fa-regular fa-check"></i> Perencanaan & Optimalisasi Pajak</li>
+                                    <li><i class="fa-regular fa-check"></i> Pendampingan Pemeriksaan & Sengketa Pajak</li>
+                                    <li><i class="fa-regular fa-check"></i> Pengisian & Pelaporan SPT Tahunan</li>
                                 </ul>
                             </div>
-                            <p class="mb-30">Miliki pendamping hukum yang paham dan berpengalaman dalam urusan properti. Kami siap melindungi kepentingan Anda di setiap transaksi dan penyelesaian sengketa properti.</p>
+                            <p class="mb-30">Dengan pendekatan yang solutif dan terukur, kami siap menjadi mitra hukum dan perpajakan yang menjaga bisnis Anda tetap di jalur yang legal, sehat, dan berkelanjutan.</p>
 
-                            <a href="https://wa.me/6282242014744/" class="link-btn style-2"> <i class="fa-regular fa-arrow-right-long"></i> Konsultasi Hukum Properti Sekarang</a>
+                            <a href="https://wa.me/6282242014744/" class="link-btn style-2"> <i class="fa-regular fa-arrow-right-long"></i> Konsultasi Sekarang</a>
                         </div>
                     </div>
                 </div>
